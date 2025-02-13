@@ -1,17 +1,14 @@
 # Hi there 👋 
 
-<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Carlosg19&include_all_commits=true&theme=00000000" />
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Carlosg19&include_all_commits=true&theme=00000000" />
-  
-  - I am an Aspergers guy.
-  - Chess player with an Elo of around 1600.
-  - Tech Bro, Flutter and Web developer.
+- I am an Aspergers guy.
+- Chess player with an Elo of around 1600.
+- Tech Bro, Flutter and Web developer.
     
-  <p></p>
-  <p></p>
-
-</br>
+<br></br>
+<br></br>
+<br></br>
 
 ## Fun facts:
 

@@ -2,7 +2,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Carlosg19&include_all_commits=true&theme=00000000" />
 
-- I am an Aspergers guy.
 - Chess player with an Elo of around 1600.
 - Tech Bro, Flutter and Web developer.
     

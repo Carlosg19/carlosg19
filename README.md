@@ -4,6 +4,7 @@
 
 - Chess player with an Elo of around 1600.
 - Tech Bro, Flutter and Web developer.
+- I am an Aspergers guy!
     
 <br></br>
 <br></br>
